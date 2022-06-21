@@ -60,6 +60,12 @@ p {
 }
 
 
+hr {
+	width: 9000px;
+	height: 20px;
+}
+
+
 a:link, a:visited {
 	color:#D2691E ;
 	text-decoration:none;
