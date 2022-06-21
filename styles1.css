@@ -62,7 +62,8 @@ p {
 
 hr {
 	height: 20px;
-	background-color: #6BB501;
+	background-color: greenyellow;
+	outline-color: black;
 }
 
 
