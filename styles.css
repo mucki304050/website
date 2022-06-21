@@ -130,7 +130,6 @@ body {
 
 
 #banner {
-	position: fixed;
 	margin: 0 auto;
 	height:50px;
 	width:100%;
@@ -149,6 +148,7 @@ body {
 	margin:0 auto ;
 	width:780px;	
 	text-align:center;
+	position: fixed;
 }
 #nav1 ul {
 	display:table;
