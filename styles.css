@@ -130,6 +130,7 @@ body {
 
 
 #banner {
+	position: fixed;
 	margin: 0 auto;
 	height:50px;
 	width:100%;
