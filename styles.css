@@ -115,7 +115,7 @@ body {
 
 
 #page {
-	background: transparent url( hintergrund.jpg ) center top;
+	background: transparent url() center top;
 }
 
 
@@ -169,7 +169,7 @@ body {
 	float:left;
 	margin:0;
 	padding:0;
-	background:transparent url("pictures/backgroun.jpg") repeat-x top left;
+	background:transparent url("") repeat-x top left;
 	border-left:1px solid #a64a4a ;
 
 }
