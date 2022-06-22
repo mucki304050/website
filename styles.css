@@ -36,7 +36,7 @@ p {
 h1 {
 	color:#D2691E;
 	font-size:22px ;
-	margin:100px 0 10px 0;
+	margin:150px 0 10px 0;
 	clear:both;
 	text-align:center;
 }
@@ -214,7 +214,7 @@ body {
 	margin:0 auto;
 	height:130px;
 	padding:0;
-	background:transparent url( ) no-repeat scroll center top ;
+	background:transparent url () no-repeat scroll center top ;
 }
 
 
