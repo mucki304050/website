@@ -78,7 +78,7 @@ a:hover {
   
 
 #wrapper {
-	background: transparent url() repeat-y scroll 100% 0px ;
+	background: opacity:1 ;
 	margin:10 auto ;
 	
 }
