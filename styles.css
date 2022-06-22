@@ -96,8 +96,8 @@ body {
 #bg {
 	margin:0 auto;
 	padding:0;
-	background:opacity:1 ;
-	background-image:  ;
+	background:transparent ;
+	background-image: url( hat.jpg ) ;
  	background-repeat:no-repeat;	
 	background-position: center top ;
 }
@@ -115,7 +115,7 @@ body {
 
 
 #page {
-	background: opacity:1  center top;
+	background: transparent url( hintergrund.jpg ) center top;
 }
 
 
