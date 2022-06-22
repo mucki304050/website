@@ -215,7 +215,8 @@ body {
 	margin:0 auto;
 	height:130px;
 	padding:0;
-	background:opacity:1
+	background:transparent url () no-repeat scroll center top ;
+}
 
 
 #footer {
